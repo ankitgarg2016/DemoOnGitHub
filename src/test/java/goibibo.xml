@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="goibibo">
+
+	<test name="LoginFunctionality">
+
+		<groups>
+			<define name="FirstGroup">
+				<include name="Regression" />
+				<include name="Sanity" />
+			</define>
+
+			<run>
+				<include name="FirstGroup" />
+			</run>
+
+		</groups>
+		<classes>
+			<class name="TestNG.FirstTestNGClass" />
+		</classes>
+	</test> <!-- Test -->
+
+
+
+</suite> <!-- Suite -->
