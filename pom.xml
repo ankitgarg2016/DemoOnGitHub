@@ -9,7 +9,7 @@
 	<properties>
 		<jre.level>1.7</jre.level>
 		<jdk.level>1.7</jdk.level>
-		<testNg>6.14.3</testNg>
+		<testNg>7.5.1</testNg>
 	</properties>
 
 
